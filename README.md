@@ -14,4 +14,4 @@ Delta Student Aman
 
 ![Placeholder](https://placehold.co/600x200/2B2F36/35D7BB?text=Your+Image+Here)
 
-[dillinger]: https://dillinger.io
+<!-- [dillinger]: https://dillinger.io -->
