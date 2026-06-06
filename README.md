@@ -22,3 +22,8 @@ function greet(name) {
 
 console.log(greet("world"));
 ```
+
+## HTML:
+```html
+<h1>Hello World</h1>
+```
