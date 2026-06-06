@@ -14,4 +14,11 @@ Delta Student Aman
 
 ![Placeholder](https://placehold.co/600x200/2B2F36/35D7BB?text=Your+Image+Here)
 
-<!-- [dillinger]: https://dillinger.io -->
+## Code here:
+```javascript
+function greet(name) {
+  return `Hello, ${name}.`;
+}
+
+console.log(greet("world"));
+```
